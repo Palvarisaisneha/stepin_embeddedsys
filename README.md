@@ -3,6 +3,7 @@
 ## Code Inspector Badges
 
 ![](https://www.code-inspector.com/project/28621/score/svg )<br />![]( https://www.code-inspector.com/project/28621/status/svg)
+ [![Codacy Badge](https://app.codacy.com/project/badge/Grade/28baf677270e4cd1ad32378e2edf6bf6)](https://www.codacy.com/gh/Palvarisaisneha/stepin_embeddedsys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Palvarisaisneha/stepin_embeddedsys&amp;utm_campaign=Badge_Grade)
  
  
 ## Folder Structure
