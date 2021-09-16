@@ -3,8 +3,7 @@
 ## Code Inspector Badges
 
 ![](https://www.code-inspector.com/project/28621/score/svg )<br />![]( https://www.code-inspector.com/project/28621/status/svg)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0331ee08be5f49df9aa17edb570bb842)](https://www.codacy.com/gh/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sultanbepari/STEPin_Seat_Temperature_Monitoring_System&amp;utm_campaign=Badge_Grade)
-
+ 
  
 ## Folder Structure
 |Folder             | Description |
